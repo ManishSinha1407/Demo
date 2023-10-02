@@ -13,4 +13,15 @@ Govt. Engineering College JDP
 Graduation: 2025
 Current CGPA: 8.00
 
+Skills:
+
+- Programming Languages: Java, C++, Python
+- Web Development: HTML, CSS, JavaScript
+- Database Management: MySQL
+- Data Structures and Algorithms
+- Problem Solving and Debugging
+- Software Development Life Cycle (SDLC)
+- Teamwork and Communication Skills
+- Adaptability and Quick Learning
+
 
